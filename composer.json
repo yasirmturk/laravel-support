@@ -39,7 +39,7 @@
         }
     ],
     "require": {
-        "php": "^7.4.0",
+        "php": "^7.3.0",
         "felixkiss/uniquewith-validator": "^3.4.0",
         "illuminate/auth": "^7.0.0",
         "illuminate/bus": "^7.0.0",
